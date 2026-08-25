@@ -141,7 +141,7 @@ Full-stack employee payslip generation system with automated calculations and PD
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/karneish/karneish/output/github-snake.svg" />
+<img src="https://raw.githubusercontent.com/karneish/karneish/main/github-snake.svg" />
 
 </div>
 
