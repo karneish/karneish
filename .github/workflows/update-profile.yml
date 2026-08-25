@@ -15,10 +15,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update Last Updated
-        run: |
-          TIMESTAMP=2026-08-25 13:57:17 UTC
-          sed -i "s/Last Updated:.*/Last Updated: /" README.md
+      - name: Update Timestamp
+        uses: nick-fields/replace@v3
+        with:
+          filename: 'README.md'
+          regex: 'Last Updated:.*'
+          replace: 'Last Updated: 2026-08-25 13:59:45 UTC'
 
       - name: Commit changes
         run: |
