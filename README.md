@@ -113,32 +113,23 @@ Full-stack employee payslip generation system with automated calculations and PD
 
 ---
 
-## <stats> GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/karneish">
-<img src="https://github-readme-stats.vercel.app/api?username=karneish&show_icons=true&theme=transparent&hide_border=true&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" height="165" />
-</a>
-<a href="https://github.com/karneish">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karneish&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" />
-</a>
+![Repos](https://img.shields.io/badge/Repos-6-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars-4-e3b341?style=for-the-badge&logo=github&logoColor=white)
+![PRs](https://img.shields.io/badge/PRs-6-2ea44f?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions-81+-58a6ff?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/karneish">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karneish&layout=compact&theme=transparent&hide_border=true&langs_count=8&text_color=c9d1d9&title_color=58a6ff" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=karneish&theme=transparent&no-frame=true&column=7" />
-</a>
+![Java](https://img.shields.io/badge/Java-1-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-1-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
 
