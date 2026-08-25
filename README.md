@@ -58,8 +58,9 @@
 </p>
 
 ### Engineering Practices
-`REST API Design` · `JWT Authentication` · `Microservices` · `ETL (Talend / SSIS)` · `System Design` · `DTO Pattern` · `Transaction Management` · `Postman` · `Git & GitHub` · `Jira` · `Agile`
-
+<p>
+  <code>REST API Design</code> · <code>JWT Authentication</code> · <code>Microservices</code> · <code>ETL (Talend / SSIS)</code> · <code>System Design</code> · <code>DTO Pattern</code> · <code>Transaction Management</code> · <code>Postman</code> · <code>Git & GitHub</code> · <code>Jira</code> · <code>Agile</code>
+</p>
 ---
 
 ## 🚀 Featured Projects
