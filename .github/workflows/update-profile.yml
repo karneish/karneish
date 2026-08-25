@@ -17,8 +17,8 @@ jobs:
 
       - name: Update Last Updated
         run: |
-          TIMESTAMP=\2026-08-25 13:25:01 UTC
-          sed -i "s/Last Updated:.*/Last Updated: \/" README.md
+          TIMESTAMP=2026-08-25 13:57:17 UTC
+          sed -i "s/Last Updated:.*/Last Updated: /" README.md
 
       - name: Commit changes
         run: |
