@@ -13,7 +13,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAaPUT5xz2WiMoP/giphy.gif" width="30"> About Me
 
-``python
+````python
 class Karneish:
     def __init__(self):
         self.name = "Karneish P"
@@ -36,7 +36,7 @@ class Karneish:
             "SQL & Database Design", "REST APIs & Microservices",
             "Technical Troubleshooting"
         ]
-`
+```
 
 ---
 
