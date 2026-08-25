@@ -11,7 +11,7 @@
 
 ---
 
-### About Me
+### <img src="https://media.giphy.com/media/VgCDAaPUT5xz2WiMoP/giphy.gif" width="30"> About Me
 
 `python
 class Karneish:
@@ -40,7 +40,7 @@ class Karneish:
 
 ---
 
-### Tech Stack
+### <img src="https://media.giphy.com/media/QSSwyfaH4yXq0ruF3u/giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
@@ -73,13 +73,13 @@ class Karneish:
 
 ---
 
-### Featured Projects
+### <img src="https://media.giphy.com/media/l4FGI2HnKUmZS9Lh6/giphy.gif" width="30"> Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### Restaurant Table Reservation - Smart Dining Platform
+#### [Restaurant Table Reservation - Smart Dining Platform](https://github.com/karneish/Restaurant-Table-Reservation-Smart-Dining-Platform)
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk" alt="Java"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React"/>
@@ -89,7 +89,7 @@ Full-stack restaurant reservation system with real-time table management, bookin
 </td>
 <td width="50%" valign="top">
 
-#### AI-Based Data-Driven Decision Support System
+#### [AI-Based Data-Driven Decision Support System](https://github.com/karneish/AI-Based-Data-Driven-Decision-Support-System)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn" alt="Scikit-learn"/>
@@ -101,7 +101,7 @@ AI-powered full-stack web app with ML models, interactive dashboards, and predic
 <tr>
 <td width="50%" valign="top">
 
-#### AI-Based Smart Attendance System
+#### [AI-Based Smart Attendance System](https://github.com/karneish/AI-Based-Smart-Attendance-System)
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk" alt="Java"/>
 
@@ -110,7 +110,7 @@ Smart academic platform with QR-based attendance, timetable management, and anal
 </td>
 <td width="50%" valign="top">
 
-#### Payslip Generator
+#### [Payslip Generator](https://github.com/karneish/Payslip-Generator)
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express" alt="Express"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" alt="TypeScript"/>
@@ -123,7 +123,7 @@ Full-stack employee payslip generation and management system with automated calc
 
 ---
 
-### GitHub Analytics
+### <img src="https://media.giphy.com/media/iY8CRB9vvhbQEfuqt3/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
 
@@ -146,7 +146,17 @@ Full-stack employee payslip generation and management system with automated calc
 
 ---
 
-### Let's Connect
+### <img src="https://media.giphy.com/media/9J7tdYltWyXIY0CXbh/giphy.gif" width="30"> Achievements & Badges
+
+<div align="center">
+
+[![Readme Quotes](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Backend+Developer;Software+Engineer;CS+Undergrad;Building+Scalable+Systems;Always+Learning)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### <img src="https://media.giphy.com/media/l4FGI2HnKUmZS9Lh6/giphy.gif" width="30"> Let's Connect
 
 <div align="center">
 
@@ -159,6 +169,8 @@ Full-stack employee payslip generation and management system with automated calc
 ---
 
 <div align="center">
+
+> Last Updated: 2026-08-25 13:44:18 UTC
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0969da,100:1f6feb&height=120&section=footer" width="100%"/>
 
