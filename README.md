@@ -14,7 +14,7 @@
 <p align="center">
   🎓 B.Tech CSE '27 — CGPA: 8.83/10 &nbsp;|&nbsp; 🏆 Top 10% — Product Teardown Competition &nbsp;|&nbsp; 🥇 Best Team Award — National-Level Hackathon
 <br/>
-  💼 Ex-Intern @ DataSwitch.Inc &nbsp;·&nbsp; Java & Data Engineering
+  💼 Ex-Intern @ Shine Craft Technologies &nbsp;·&nbsp; DataSwitch.Inc
 </p>
 
 ---
