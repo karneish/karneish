@@ -87,6 +87,10 @@
 
 ## 💼 Experience
 
+**Java & Python Full Stack Developer Intern** — Shine Craft Technologies *(Apr–Aug 2026)*
+- Built a full-stack employee payslip system (Java, React, Ext JS, PostgreSQL) with Jibble attendance-API integration and automated payroll workflows.
+- Developed RESTful APIs, implemented JWT authentication, and optimized database queries for high-performance backend processing.
+
 **Product Development Intern (Java)** — DataSwitch.Inc *(Feb–Mar 2026)*
 - Developed and troubleshot enterprise ETL workflows using Talend and SSIS, resolving XML-to-JSON transformation issues and improving data integration across multiple enterprise systems.
 - Performed database validation, REST API testing, and backend debugging using SQL and Postman, ensuring data accuracy and application reliability.
