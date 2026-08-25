@@ -10,7 +10,7 @@
 
 ---
 
-## <greeting> About Me
+## About Me
 
 ```python
 class Karneish:
@@ -30,7 +30,7 @@ class Karneish:
 
 ---
 
-## <tech> Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -63,7 +63,7 @@ class Karneish:
 
 ---
 
-## <project> Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -135,7 +135,7 @@ Full-stack employee payslip generation system with automated calculations and PD
 
 ---
 
-## <snake> Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -145,7 +145,7 @@ Full-stack employee payslip generation system with automated calculations and PD
 
 ---
 
-## <achievement> Achievements
+## Achievements
 
 <div align="center">
 
@@ -155,7 +155,7 @@ Full-stack employee payslip generation system with automated calculations and PD
 
 ---
 
-## <connect> Let's Connect
+## Connect
 
 <div align="center">
 
