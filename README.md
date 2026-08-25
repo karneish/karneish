@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0969da,100:1f6feb&height=220&section=header&text=Karneish%20P&fontSize=90&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Software%20Engineer%20%7C%20CS%20Undergrad&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0969da,100:1f6feb&height=220&section=header&text=KARNEISH%20S&fontSize=90&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Software%20Engineer%20%7C%20CS%20Undergrad&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=karneish&label=Profile%20Views&color=0e75b6&style=flat" alt="karneish" />
 
@@ -16,7 +16,7 @@
 ```python
 class Karneish:
     def __init__(self):
-        self.name = "Karneish P"
+        self.name = "KARNEISH S"
         self.role = "Backend Developer & Software Engineer"
         self.location = "Puducherry, India"
         self.education = "B.Tech CSE @ RGCE&T | CGPA: 8.83/10"
@@ -79,7 +79,7 @@ class Karneish:
 <tr>
 <td width="50%" valign="top">
 
-#### [Restaurant Table Reservation - Smart Dining Platform](https://github.com/karneish/Restaurant-Table-Reservation-Smart-Dining-Platform)
+#### Restaurant Table Reservation - Smart Dining Platform
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk" alt="Java"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React"/>
@@ -89,7 +89,7 @@ Full-stack restaurant reservation system with real-time table management, bookin
 </td>
 <td width="50%" valign="top">
 
-#### [AI-Based Data-Driven Decision Support System](https://github.com/karneish/AI-Based-Data-Driven-Decision-Support-System)
+#### AI-Based Data-Driven Decision Support System
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn" alt="Scikit-learn"/>
@@ -101,7 +101,7 @@ AI-powered full-stack web app with ML models, interactive dashboards, and predic
 <tr>
 <td width="50%" valign="top">
 
-#### [AI-Based Smart Attendance System](https://github.com/karneish/AI-Based-Smart-Attendance-System)
+#### AI-Based Smart Attendance System
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk" alt="Java"/>
 
@@ -110,7 +110,7 @@ Smart academic platform with QR-based attendance, timetable management, and anal
 </td>
 <td width="50%" valign="top">
 
-#### [Payslip Generator](https://github.com/karneish/Payslip-Generator)
+#### Payslip Generator
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" alt="Next.js"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express" alt="Express"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" alt="TypeScript"/>
@@ -126,27 +126,29 @@ Full-stack employee payslip generation and management system with automated calc
 ### GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karneish&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="karneish stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karneish&layout=compact&theme=radical&hide_border=true" alt="karneish langs" />
-
+<a href="https://github.com/karneish">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=karneish&show_icons=true&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/karneish">
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=karneish&theme=radical&hide_border=true" />
+</a>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karneish&theme=radical&hide_border=true" alt="karneish streak" />
-
+<a href="https://github.com/karneish">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karneish&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</a>
 </div>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=karneish&theme=radical&no-frame=true&column=7" alt="karneish trophies" />
-
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=karneish&theme=radical&no-frame=true&column=7" />
+</a>
 </div>
 
 ---
 
-### Achievements & Badges
+### Achievements
 
 <div align="center">
 
