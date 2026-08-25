@@ -72,6 +72,7 @@
   <img alt="Agile" src="https://img.shields.io/badge/Agile-0969DA?style=flat-square&logo=symbol&logoColor=white"/>
   <img alt="JUnit" src="https://img.shields.io/badge/JUnit_Mockito-2EA44f?style=flat-square&logo=openjdk&logoColor=white"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI_CD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>
 ---
 
