@@ -110,7 +110,7 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=karneish&theme=tokyonight&hide_border=true&short_numbers=true&v=2"/>
+  <img alt="Contributions" src="https://img.shields.io/badge/Contributions-93%2B%20this%20year-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
