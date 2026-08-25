@@ -125,42 +125,12 @@ Full-stack employee payslip generation system with automated calculations and PD
 
 <div align="center">
 
-![Karneish's GitHub stats](https://github-readme-stats.vercel.app/api?username=karneish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Repos](https://img.shields.io/badge/Repos-6-58a6ff?style=for-the-badge&logo=github&logoColor=white) ![Stars](https://img.shields.io/badge/Stars-4-e3b341?style=for-the-badge&logo=github&logoColor=white) ![PRs](https://img.shields.io/badge/PRs_Merged-6-2ea44f?style=for-the-badge&logo=github&logoColor=white) ![Contributions](https://img.shields.io/badge/Contributions-93+-58a6ff?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karneish&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/karneish/karneish/main/github-snake.svg" />
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-![YOLO Badge](https://img.shields.io/badge/YOLO-Merged%20without%20review-ff69b4?style=for-the-badge&logo=github&logoColor=white)
-![First PR](https://img.shields.io/badge/First%20PR-Opened-2ea44f?style=for-the-badge&logo=github&logoColor=white)
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-6%20PRs%20Merged-1f6feb?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-Thanks for visiting!
+![Java](https://img.shields.io/badge/Java-1-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-1-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-1-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
