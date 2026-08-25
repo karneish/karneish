@@ -11,9 +11,9 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAaPUT5xz2WiMoP/giphy.gif" width="30"> About Me
+### About Me
 
-````python
+```python
 class Karneish:
     def __init__(self):
         self.name = "Karneish P"
@@ -40,7 +40,7 @@ class Karneish:
 
 ---
 
-### <img src="https://media.giphy.com/media/QSSwyfaH4yXq0ruF3u/giphy.gif" width="30"> Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -73,7 +73,7 @@ class Karneish:
 
 ---
 
-### <img src="https://media.giphy.com/media/l4FGI2HnKUmZS9Lh6/giphy.gif" width="30"> Featured Projects
+### Featured Projects
 
 <table>
 <tr>
@@ -123,7 +123,7 @@ Full-stack employee payslip generation and management system with automated calc
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRB9vvhbQEfuqt3/giphy.gif" width="30"> GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
@@ -146,7 +146,7 @@ Full-stack employee payslip generation and management system with automated calc
 
 ---
 
-### <img src="https://media.giphy.com/media/9J7tdYltWyXIY0CXbh/giphy.gif" width="30"> Achievements & Badges
+### Achievements & Badges
 
 <div align="center">
 
@@ -156,7 +156,7 @@ Full-stack employee payslip generation and management system with automated calc
 
 ---
 
-### <img src="https://media.giphy.com/media/l4FGI2HnKUmZS9Lh6/giphy.gif" width="30"> Let's Connect
+### Let's Connect
 
 <div align="center">
 
@@ -169,8 +169,6 @@ Full-stack employee payslip generation and management system with automated calc
 ---
 
 <div align="center">
-
-> Last Updated: 2026-08-25 13:44:18 UTC
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0969da,100:1f6feb&height=120&section=footer" width="100%"/>
 
