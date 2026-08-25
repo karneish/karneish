@@ -59,7 +59,19 @@
 
 ### Engineering Practices
 <p>
-  <code>REST API Design</code> · <code>JWT Authentication</code> · <code>Microservices</code> · <code>ETL (Talend / SSIS)</code> · <code>System Design</code> · <code>DTO Pattern</code> · <code>Transaction Management</code> · <code>Postman</code> · <code>Git & GitHub</code> · <code>Jira</code> · <code>Agile</code>
+  <img alt="REST API" src="https://img.shields.io/badge/REST_API_Design-0969DA?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img alt="JWT" src="https://img.shields.io/badge/JWT_Auth-2EA44f?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img alt="Microservices" src="https://img.shields.io/badge/Microservices-58a6ff?style=flat-square&logo=docker&logoColor=white"/>
+  <img alt="ETL" src="https://img.shields.io/badge/ETL_Talend_SSIS-BC49A8?style=flat-square&logo=apache&logoColor=white"/>
+  <img alt="System Design" src="https://img.shields.io/badge/System_Design-0969DA?style=flat-square&logo=github&logoColor=white"/>
+  <img alt="DTO Pattern" src="https://img.shields.io/badge/DTO_Pattern-58a6ff?style=flat-square&logo=java&logoColor=white"/>
+  <img alt="Transaction Mgmt" src="https://img.shields.io/badge/Transaction_Mgmt-2EA44f?style=flat-square&logo=databricks&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git_GitHub-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img alt="Agile" src="https://img.shields.io/badge/Agile-0969DA?style=flat-square&logo=symbol&logoColor=white"/>
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit_Mockito-2EA44f?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 ---
 
