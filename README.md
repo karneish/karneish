@@ -151,7 +151,9 @@ Full-stack employee payslip generation system with automated calculations and PD
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=karneish&theme=onestar&no-frame=true&column=7" />
+![YOLO Badge](https://img.shields.io/badge/YOLO-Merged%20without%20review-ff69b4?style=for-the-badge&logo=github&logoColor=white)
+![First PR](https://img.shields.io/badge/First%20PR-Opened-2ea44f?style=for-the-badge&logo=github&logoColor=white)
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-6%20PRs%20Merged-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
